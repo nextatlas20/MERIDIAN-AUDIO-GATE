@@ -1,0 +1,14 @@
+[
+  {"asset_id":"AU-1001","exhibit_id":"EX-101","language":"en","duration_seconds":91,"lufs":-18,"status":"approved","revision":1},
+  {"asset_id":"AU-1002","exhibit_id":"EX-101","language":"es","duration_seconds":88,"lufs":-19,"status":"approved","revision":1},
+  {"asset_id":"AU-1003","exhibit_id":"EX-101","language":"fr","duration_seconds":94,"lufs":-18,"status":"approved","revision":2},
+  {"asset_id":"AU-2001","exhibit_id":"EX-102","language":"en","duration_seconds":75,"lufs":-17,"status":"approved","revision":1},
+  {"asset_id":"AU-2002","exhibit_id":"EX-102","language":"es","duration_seconds":74,"lufs":-18,"status":"approved","revision":1},
+  {"asset_id":"AU-2002","exhibit_id":"EX-102","language":"es","duration_seconds":74,"lufs":-21,"status":"approved","revision":2},
+  {"asset_id":"AU-4001","exhibit_id":"EX-104","language":"en","duration_seconds":118,"lufs":-16,"status":"approved","revision":1},
+  {"asset_id":"AU-4002","exhibit_id":"EX-104","language":"es","duration_seconds":121,"lufs":-18,"status":"pending","revision":1},
+  {"asset_id":"AU-3001","exhibit_id":"EX-103","language":"en","duration_seconds":60,"lufs":-18,"status":"approved","revision":1},
+  {"asset_id":"AU-9999","exhibit_id":"EX-104","language":"de","duration_seconds":120,"lufs":-18,"status":"approved","revision":1},
+  {"asset_id":"AU-4001","exhibit_id":"EX-104","language":"en","duration_seconds":119,"lufs":-18,"status":"approved","revision":0},
+  {"asset_id":"broken","exhibit_id":"EX-104","language":"fr","duration_seconds":120,"lufs":-18,"status":"approved","revision":1}
+]

@@ -1,0 +1,7 @@
+exhibit_id,title,tier,target_seconds,active,revision
+EX-101,Tidal Loom,core,90,yes,1
+EX-102,Glass Orchard,standard,75,yes,2
+EX-103,Paper Constellations,standard,60,no,1
+EX-104,Night Cartography,core,120,yes,1
+EX-102,Old Glass Gallery,standard,70,yes,1
+BAD-9,Invalid Gallery,core,80,yes,1

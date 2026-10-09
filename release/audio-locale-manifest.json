@@ -1,0 +1,119 @@
+{
+  "gate": "meridian-audio-launch",
+  "summary": {
+    "active_exhibits": 3,
+    "required_slots": 8,
+    "approved_slots": 6,
+    "compliant_slots": 5,
+    "ready_exhibits": 1,
+    "blocked_exhibits": 2,
+    "blocked_slots": 3
+  },
+  "exhibits": [
+    {
+      "exhibit_id": "EX-101",
+      "title": "Tidal Loom",
+      "tier": "core",
+      "target_seconds": 90,
+      "ready": true,
+      "slots": [
+        {
+          "language": "en",
+          "asset_id": "AU-1001",
+          "status": "approved",
+          "duration_seconds": 91,
+          "lufs": -18,
+          "compliant": true,
+          "reasons": []
+        },
+        {
+          "language": "es",
+          "asset_id": "AU-1002",
+          "status": "approved",
+          "duration_seconds": 88,
+          "lufs": -19,
+          "compliant": true,
+          "reasons": []
+        },
+        {
+          "language": "fr",
+          "asset_id": "AU-1003",
+          "status": "approved",
+          "duration_seconds": 94,
+          "lufs": -18,
+          "compliant": true,
+          "reasons": []
+        }
+      ]
+    },
+    {
+      "exhibit_id": "EX-102",
+      "title": "Glass Orchard",
+      "tier": "standard",
+      "target_seconds": 75,
+      "ready": false,
+      "slots": [
+        {
+          "language": "en",
+          "asset_id": "AU-2001",
+          "status": "approved",
+          "duration_seconds": 75,
+          "lufs": -17,
+          "compliant": true,
+          "reasons": []
+        },
+        {
+          "language": "es",
+          "asset_id": "AU-2002",
+          "status": "approved",
+          "duration_seconds": 74,
+          "lufs": -21,
+          "compliant": false,
+          "reasons": [
+            "loudness"
+          ]
+        }
+      ]
+    },
+    {
+      "exhibit_id": "EX-104",
+      "title": "Night Cartography",
+      "tier": "core",
+      "target_seconds": 120,
+      "ready": false,
+      "slots": [
+        {
+          "language": "en",
+          "asset_id": "AU-4001",
+          "status": "approved",
+          "duration_seconds": 118,
+          "lufs": -16,
+          "compliant": true,
+          "reasons": []
+        },
+        {
+          "language": "es",
+          "asset_id": "AU-4002",
+          "status": "pending",
+          "duration_seconds": 121,
+          "lufs": -18,
+          "compliant": false,
+          "reasons": [
+            "review:pending"
+          ]
+        },
+        {
+          "language": "fr",
+          "asset_id": null,
+          "status": null,
+          "duration_seconds": null,
+          "lufs": null,
+          "compliant": false,
+          "reasons": [
+            "missing"
+          ]
+        }
+      ]
+    }
+  ]
+}
